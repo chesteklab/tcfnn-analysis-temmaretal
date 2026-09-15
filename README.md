@@ -1,4 +1,4 @@
-# tcFNN analysis code for Temmar et al 2025
+# TCN Analysis code for Temmar et al 2025
 
 ## 1. Introduction
 The following code was used to produce all the figures used in 'Investigating the benefits of artificial neural networks over linear approaches to BMI decoding' by Temmar et al., published in the Journal of Neural Engineering in 2025 (DOI: 10.1088/1741-2552/ade568, [click here](https://doi.org/10.1088/1741-2552/ade568)). In order to properly run this code, you will need the dataset (which we provide in a preprocessed form on Deep Blue, the University of Michigan's Data repository - COMING SOON). The repo has versions of the figures as they were last produced uploaded - The code outputs .pdf files, and minor aesthetic changes are then applied in Adobe Illustrator.
